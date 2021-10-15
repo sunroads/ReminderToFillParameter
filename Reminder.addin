@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+<!--<AddIn Type="DBApplication">
+	<Name>Проверка параметра (Txt)</Name>
+	<Assembly>ReminderToFillParameter.dll</Assembly>
+	<AddInId>
+		4C85F885-314A-4B0F-ABE0-AAAD178C9359
+	</AddInId>
+	<FullClassName>ReminderToFillParameter.ReminderTxt</FullClassName>
+	<VendorId>VendorId</VendorId>
+	<VendorDescription>VendorDescription</VendorDescription>
+</AddIn>-->
+
+	<!--<AddIn Type="DBApplication">
+		<Name>Проверка заполненности параметра (ExcelInterop)</Name>
+		<Assembly>ReminderToFillParameter.dll</Assembly>
+		<AddInId>
+			19A38ECC-D456-40D2-9451-8267747CDCDA
+		</AddInId>
+		<FullClassName>ReminderToFillParameter.ReminderInterop</FullClassName>
+		<VendorId>VendorId</VendorId>
+		<VendorDescription>VendorDescription</VendorDescription>
+	</AddIn>-->
+
+	<AddIn Type="DBApplication">
+		<Name>Проверка заполненности параметра (ExcelEPPlus)</Name>
+		<Assembly>ReminderToFillParameter.dll</Assembly>
+		<AddInId>
+			1F0E3D41-1FE7-4C82-B35B-20A3895042FE
+		</AddInId>
+		<FullClassName>ReminderToFillParameter.ReminderEPPLUS</FullClassName>
+		<VendorId>VendorId</VendorId>
+		<VendorDescription>VendorDescription</VendorDescription>
+	</AddIn>
+	
+</RevitAddIns>
+
